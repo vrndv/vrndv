@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Varun Dev</h3>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Chat App](github.com/vrndv/Minty)
+- 🔭 I’m currently working on [Chat App](www.github.com/vrndv/Minty)
 
 - 🌱 I’m currently learning **Flutter**
 
